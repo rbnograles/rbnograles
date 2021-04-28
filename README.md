@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Stack Technology
+- 🔭 I’m currently working on ... Stack Education Technology
 - 🌱 I’m currently learning ... Node.js and Typescript
 - 👯 I’m looking to collaborate on ... Node.js
 - 🤔 I’m looking for help with ... AWS
