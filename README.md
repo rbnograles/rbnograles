@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Fullstack developer.</h3>
 
 - 🔭 I’m currently working on Stack Educational Techonology. **Gradebook | Admissions | Enrollment Applications**
-- 🌱 I’m currently learning ... Node.js and Typescript
-- 👯 I’m looking to collaborate on ... Node.js
+- 🌱 I’m currently learning ... Mobile Development with React Native
 - 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... React.js or just anything
+- 💬 Ask me about ... Web Development (MERN STACK)
 - 📫 How to reach me: ... ryannograles.025.gtsi@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a gamer :D
