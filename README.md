@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... Mobile Development with React Native
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Web Development (MERN STACK)
-- 📫 How to reach me: ... ryannograles.025.gtsi@gmail.com
+- 📫 How to reach me: ... ryannograles.025.official@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a gamer :D
 
