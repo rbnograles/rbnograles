@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan!</h1>
 <h3 align="center">A passionate Fullstack developer.</h3>
 
-- 🔭 I’m currently working on Stack Educational Techonology. **Gradebook | Admissions | Enrollment Applications**
+- 🔭 I’m open for a new job opportunity!
 - 🌱 I’m currently learning ... Mobile Development with React Native
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Web Development (MERN STACK)
