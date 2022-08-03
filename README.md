@@ -11,7 +11,7 @@
 
 ---
 > ### Github Statistics
-<img align="left" style="width:100%" alt="MrZeal025's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrZeal025&show_icons=true&hide_border=true" />
+<img align="left" style="width:100%" alt="MrZeal025's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rbnograles&show_icons=true&hide_border=true" />
 
 ---
 
