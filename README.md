@@ -1,7 +1,11 @@
 # Hi 👋, I'm Ryan Nograles!
+
 > Full-Stack Developer
+
 > Computer Engineer
+
 > Software Engineer
+
 > Senior Analyst @ Accenture in the Philippines
 
 ## Github Statistics
