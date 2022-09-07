@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ryan Nograles!
-Fullstack developer
-Computer Engineer
+- Fullstack Developer
+- Computer Engineer
 
 **Senior Analyst @ Accenture in the Philippines**
 
