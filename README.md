@@ -48,6 +48,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ---
 ## Contact Me Here
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ryannograles.025.official@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([ryannograles.025.official@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvqKBnDfZMtHqZwvKbPfZRrZgtnQKFQWFgffJWHbzWsfhFSQhFGWKwBBfrtgFppjVDxPTL))
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nayr.selargon/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nograles-63b00221a/)
