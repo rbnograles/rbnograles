@@ -10,8 +10,9 @@
 
 ## Github Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbnograles)
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnograles&theme=vue)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnograles&theme=vue)
+
 
 ## My Current Tech Stack
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
