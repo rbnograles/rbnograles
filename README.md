@@ -1,16 +1,17 @@
 # Hi 👋, I'm Ryan Nograles!
 
-> Full-Stack Developer
+* Full-Stack Developer
 
-> Computer Engineer
+* Computer Engineer
 
-> Software Engineer
+* Software Engineer
 
-> Senior Analyst @ Accenture in the Philippines
+* Senior Analyst @ Accenture in the Philippines
 
 ## Github Statistics
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnograles&theme=vue)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles)
+![Github Stats](https://github-readme-activity-graph.cyclic.app/graph?username=rbnograles&theme=minimal)
 
 
 ## My Current Tech Stack
@@ -40,7 +41,7 @@
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MY SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Server
+### Backend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nest.JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -63,12 +64,13 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### Deployment
+### Cloud Deployment
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![EXPO](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
