@@ -9,8 +9,8 @@
 * Senior Analyst @ Accenture in the Philippines
 
 ## Github Statistics
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnograles&theme=vue)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles)
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnograles&theme=vue)
 ![Github Stats](https://github-readme-activity-graph.cyclic.app/graph?username=rbnograles&theme=minimal)
 
 
