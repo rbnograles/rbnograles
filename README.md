@@ -31,9 +31,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-### 🧰: Languages and Tools
-
----
+### Languages and Tools
 
 ### Frontend
 
