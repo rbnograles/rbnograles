@@ -1,11 +1,16 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
-  
+  <mg src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100"/>
   <div id="badges">
+  <a href="https://www.linkedin.com/in/ryan-nograles-63b00221a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCtlHndxGr7FRIrabfzXyTQg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </div>
+  </a>
+  <a href="https://www.facebook.com/nayr.selargon">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </div>
 
 
