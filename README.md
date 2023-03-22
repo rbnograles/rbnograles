@@ -1,12 +1,8 @@
 # Hi 👋, I'm Ryan Nograles!
 
-* Full-Stack Developer
+* Custom Software Engineering Sr. Analyst @ Accenture in the Philippines
 
 * Computer Engineer
-
-* Software Engineer
-
-* Senior Analyst @ Accenture in the Philippines
 
 ## Github Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles)
