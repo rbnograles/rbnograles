@@ -13,8 +13,8 @@
     </a>
   </div>
   <br/>
-  <h2>Hi there, I'm Ryan Nograles! 👋<h2/>
-  <span>Custom Software Engineering Sr. Analyst @ Accenture in the Philippines<span/>
+  Hi there, I'm Ryan Nograles! 👋
+  Custom Software Engineering Sr. Analyst @ Accenture in the Philippines
 </div>
 
 ---
