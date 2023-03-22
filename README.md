@@ -4,8 +4,7 @@
 
 * Computer Engineer
 
-## Github Statistics
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbnograles&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ## My Current Tech Stack
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
