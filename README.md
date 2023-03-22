@@ -14,11 +14,8 @@
   </div>
   <br/>
   <h2>Hi there, I'm Ryan Nograles! 👋<h2/>
+  <span>Custom Software Engineering Sr. Analyst @ Accenture in the Philippines<span/>
 </div>
-
-* Custom Software Engineering Sr. Analyst @ Accenture in the Philippines
-
-* Computer Engineer
 
 ---
   
