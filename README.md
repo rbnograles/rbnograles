@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Software Development Engineer wit
 ---
 
 ### 📊 GitHub Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rbnograles&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbnograles&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=radical)
 
