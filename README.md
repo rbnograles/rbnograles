@@ -111,12 +111,6 @@ Welcome to my GitHub profile! I'm a passionate Software Development Engineer wit
 ---
 
 ### 🤝 Let's Connect:
-<a href="mailto:nograles.ryanb@outlook.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-<a href="https://www.linkedin.com/in/ryan-nograles-63b00221a/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.facebook.com/nayr.selargon">
-  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
+🌍 [Website](https://ryannograles.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-nograles-63b00221a/)
+- 👤 [Facebook](https://www.facebook.com/nayr.selargon)
