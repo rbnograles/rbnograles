@@ -111,6 +111,6 @@ Welcome to my GitHub profile! I'm a passionate Software Development Engineer wit
 ---
 
 ### 🤝 Let's Connect:
-🌍 [Website](https://ryannograles.vercel.app/)
+- 🌍 [Website](https://ryannograles.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ryan-nograles-63b00221a/)
 - 👤 [Facebook](https://www.facebook.com/nayr.selargon)
