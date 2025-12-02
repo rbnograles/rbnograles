@@ -47,22 +47,29 @@ const ryan = {
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=450&exclude_repo=forked-repo1,forked-repo2" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Language Distribution"/>
-</div>
-
-<div align="center">
   
-| 📊 **Language Stats** | 🎯 **Expertise Level** |
-|:---:|:---:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐⭐ |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐ |
+### 📊 My GitHub Language Stats
+  
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=500" alt="Top Languages Compact"/>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Language Distribution Donut"/>
+
+### 🎯 Language Expertise & Proficiency
+
+| Language | Proficiency | Use Cases |
+|:---:|:---:|:---|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Full-stack web development, Node.js APIs |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ | Enterprise applications, Type-safe development |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ⭐⭐⭐⭐ | Laravel APIs, Backend services |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | Spring Boot microservices, Enterprise apps |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐ | Data analysis, Automation scripts |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐ | Learning: Cloud services, DevOps tools |
+
+### 📈 GitHub Language Trends 2024
+[![GitHut Stats](https://img.shields.io/badge/GitHut-Language_Stats-blueviolet?style=for-the-badge&logo=github)](https://madnight.github.io/githut/#/pull_requests/2024/1)
+
+**Top Languages on GitHub (2024):**
+`Python` · `Java` · `Go` · `JavaScript` · `TypeScript` · `C++` · `PHP`
 
 </div>
 
