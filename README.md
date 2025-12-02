@@ -20,10 +20,10 @@
 ```typescript
 const ryan = {
     location: "Philippines 🇵🇭",
-    role: "Sr. Application Engineer",
-    company: "Accenture",
+    role: "Expert Software Development Engineer",
+    company: "Globe Telecoms",
     currentFocus: ["Microservices", "Cloud Architecture", "DevOps"],
-    learning: ["Kubernetes", "System Design", "AI/ML Integration"],
+    learning: ["Kubernetes", "System Design", "AI/ML Integration", "Go"],
     askMeAbout: ["Web Dev", "Backend Architecture", "Cloud Solutions"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
