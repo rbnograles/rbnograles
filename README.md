@@ -64,12 +64,6 @@ const ryan = {
 
 <div align="center">
   
-### 📊 My GitHub Language Stats
-  
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=500" alt="Top Languages Compact"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Language Distribution Donut"/>
-
 ### 🎯 Language Expertise & Proficiency
 
 | Language | Proficiency | Use Cases |
