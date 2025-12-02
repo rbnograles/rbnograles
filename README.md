@@ -3,7 +3,7 @@
   
   # 👋 Hey there, I'm Ryan Nograles
   
-  ### 🚀 Advance Application Engineering Sr. Analyst @ Accenture 🇵🇭
+  ### 🚀 Expert Software Development Engineer | Globe Telecoms PH
   ### 💻 Full-Stack Engineer | Cloud Enthusiast | Open Source Contributor
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nograles-63b00221a/)
