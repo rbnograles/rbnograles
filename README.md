@@ -40,8 +40,62 @@ const ryan = {
   <img src="https://streak-stats.demolab.com?user=rbnograles&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6D00&ring=FF6D00&currStreakLabel=FF6D00" alt="GitHub Streak"/>
 </div>
 
+## 📈 GitHub Profile Summary Cards
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnograles&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbnograles&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbnograles&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rbnograles&theme=tokyonight" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbnograles&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnograles&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+  
+### 📊 My GitHub Language Stats
+  
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=500" alt="Top Languages Compact"/>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Language Distribution Donut"/>
+
+### 🎯 Language Expertise & Proficiency
+
+| Language | Proficiency | Use Cases |
+|:---:|:---:|:---|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ | Web structure, Semantic markup, UI/UX |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Full-stack development, Node.js APIs, React |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ⭐⭐⭐⭐ | System programming, Performance-critical apps |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ⭐⭐⭐⭐⭐ | Responsive design, Tailwind, Animations |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐⭐ | Data analysis, Automation, Scripting |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ | Spring Boot microservices, Enterprise apps |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | Type-safe development, React/Next.js |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ⭐⭐⭐ | Laravel APIs, Backend services |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ⭐⭐⭐ | Learning: Microservices, Cloud-native apps |
+
+### 📊 My Language Distribution
+
+**By Repository:** `HTML` · `JavaScript` · `Python` · `Batchfile` · `Java`
+
+**By Commits:** `C++` · `CSS` · `JavaScript`
+
+### 📈 GitHub Language Trends 2024
+[![GitHut Stats](https://img.shields.io/badge/GitHut-Language_Stats-blueviolet?style=for-the-badge&logo=github)](https://madnight.github.io/githut/#/pull_requests/2024/1)
+
+**Top Languages on GitHub (2024):**
+`Python` · `Java` · `Go` · `JavaScript` · `TypeScript` · `C++` · `PHP`
+
 </div>
 
 ## 🏆 GitHub Trophies
