@@ -44,15 +44,25 @@ const ryan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbnograles&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </div>
 
-## 💻 Top Languages Breakdown
+## 💻 Most Used Languages
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=450&exclude_repo=forked-repo1,forked-repo2" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Language Distribution"/>
+</div>
 
 <div align="center">
   
-  ### 📈 Language Distribution
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&card_width=500" alt="Most Used Languages"/>
-  
-  ### 🎯 Visual Representation
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnograles&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Language Donut Chart"/>
+| 📊 **Language Stats** | 🎯 **Expertise Level** |
+|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐⭐ |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐ |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐ |
 
 </div>
 
